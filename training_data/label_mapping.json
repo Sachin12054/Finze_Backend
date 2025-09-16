@@ -1,0 +1,13 @@
+{
+  "Food & Dining": 0,
+  "Transportation": 1,
+  "Shopping": 2,
+  "Entertainment": 3,
+  "Technology": 4,
+  "Bills & Utilities": 5,
+  "Healthcare": 6,
+  "Travel": 7,
+  "Education": 8,
+  "Business": 9,
+  "Other": 10
+}

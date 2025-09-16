@@ -1,0 +1,2258 @@
+[
+  {
+    "description": "Bought groceries at Walmart",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Coffee at Starbucks",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Lunch at McDonald's",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Dinner at Pizza Hut",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Breakfast sandwich",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Grocery shopping Target",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Food delivery UberEats",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Restaurant bill",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Cafe latte",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Snacks 7-Eleven",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Domino's pizza order",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "KFC chicken bucket",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Subway sandwich",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Ice cream parlor",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Bakery fresh bread",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Chinese takeout",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Indian restaurant",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Thai food delivery",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Mexican grill",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Fast food burger",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Sushi restaurant",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Seafood dinner",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Vegetarian meal",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Organic fruits",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Meat from butcher",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Dairy products",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Frozen foods",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Beverages and drinks",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Wine and spirits",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Beer purchase",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Energy drinks",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Protein bars",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Healthy snacks",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Candy and sweets",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Cake for birthday",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Wedding catering",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Office lunch",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "School cafeteria",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Airport food",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Hotel restaurant",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Room service",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Picnic supplies",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "BBQ ingredients",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Cooking ingredients",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Spices and herbs",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Cooking oil",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Rice and grains",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Pasta and noodles",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Bread and cereals",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Milk and yogurt",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Cheese varieties",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Fresh vegetables",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Seasonal fruits",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Meat and poultry",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Fish and seafood",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Tiffin service",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Mess charges",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Canteen food",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Street food",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Local restaurant",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Fine dining",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Food court meal",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Home delivery",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Packed lunch",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Tea and coffee",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Juice bar",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Smoothie shop",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Dessert shop",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Food truck",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Catering service",
+    "category": "Food & Dining"
+  },
+  {
+    "description": "Uber ride",
+    "category": "Transportation"
+  },
+  {
+    "description": "Taxi fare",
+    "category": "Transportation"
+  },
+  {
+    "description": "Bus ticket",
+    "category": "Transportation"
+  },
+  {
+    "description": "Train journey",
+    "category": "Transportation"
+  },
+  {
+    "description": "Metro card recharge",
+    "category": "Transportation"
+  },
+  {
+    "description": "Auto rickshaw",
+    "category": "Transportation"
+  },
+  {
+    "description": "Flight booking",
+    "category": "Transportation"
+  },
+  {
+    "description": "Car rental",
+    "category": "Transportation"
+  },
+  {
+    "description": "Bike rental",
+    "category": "Transportation"
+  },
+  {
+    "description": "Petrol pump",
+    "category": "Transportation"
+  },
+  {
+    "description": "Diesel fuel",
+    "category": "Transportation"
+  },
+  {
+    "description": "Car maintenance",
+    "category": "Transportation"
+  },
+  {
+    "description": "Oil change",
+    "category": "Transportation"
+  },
+  {
+    "description": "Tire replacement",
+    "category": "Transportation"
+  },
+  {
+    "description": "Car insurance",
+    "category": "Transportation"
+  },
+  {
+    "description": "Vehicle registration",
+    "category": "Transportation"
+  },
+  {
+    "description": "Parking fee",
+    "category": "Transportation"
+  },
+  {
+    "description": "Toll charges",
+    "category": "Transportation"
+  },
+  {
+    "description": "Traffic fine",
+    "category": "Transportation"
+  },
+  {
+    "description": "Car wash",
+    "category": "Transportation"
+  },
+  {
+    "description": "Public transport",
+    "category": "Transportation"
+  },
+  {
+    "description": "Monthly bus pass",
+    "category": "Transportation"
+  },
+  {
+    "description": "Train season ticket",
+    "category": "Transportation"
+  },
+  {
+    "description": "Airport shuttle",
+    "category": "Transportation"
+  },
+  {
+    "description": "Hotel transfer",
+    "category": "Transportation"
+  },
+  {
+    "description": "Cab booking",
+    "category": "Transportation"
+  },
+  {
+    "description": "Ride sharing",
+    "category": "Transportation"
+  },
+  {
+    "description": "Car service",
+    "category": "Transportation"
+  },
+  {
+    "description": "Vehicle repair",
+    "category": "Transportation"
+  },
+  {
+    "description": "Brake service",
+    "category": "Transportation"
+  },
+  {
+    "description": "Engine check",
+    "category": "Transportation"
+  },
+  {
+    "description": "Battery replacement",
+    "category": "Transportation"
+  },
+  {
+    "description": "Car accessories",
+    "category": "Transportation"
+  },
+  {
+    "description": "GPS device",
+    "category": "Transportation"
+  },
+  {
+    "description": "Dashcam purchase",
+    "category": "Transportation"
+  },
+  {
+    "description": "Fuel card",
+    "category": "Transportation"
+  },
+  {
+    "description": "Highway toll",
+    "category": "Transportation"
+  },
+  {
+    "description": "Bridge toll",
+    "category": "Transportation"
+  },
+  {
+    "description": "Valet parking",
+    "category": "Transportation"
+  },
+  {
+    "description": "Long term parking",
+    "category": "Transportation"
+  },
+  {
+    "description": "Street parking",
+    "category": "Transportation"
+  },
+  {
+    "description": "Bike maintenance",
+    "category": "Transportation"
+  },
+  {
+    "description": "Bicycle repair",
+    "category": "Transportation"
+  },
+  {
+    "description": "Scooter service",
+    "category": "Transportation"
+  },
+  {
+    "description": "Motorcycle fuel",
+    "category": "Transportation"
+  },
+  {
+    "description": "Helmet purchase",
+    "category": "Transportation"
+  },
+  {
+    "description": "Safety gear",
+    "category": "Transportation"
+  },
+  {
+    "description": "Driver license",
+    "category": "Transportation"
+  },
+  {
+    "description": "Vehicle permit",
+    "category": "Transportation"
+  },
+  {
+    "description": "Road tax",
+    "category": "Transportation"
+  },
+  {
+    "description": "Emission test",
+    "category": "Transportation"
+  },
+  {
+    "description": "Safety inspection",
+    "category": "Transportation"
+  },
+  {
+    "description": "Registration renewal",
+    "category": "Transportation"
+  },
+  {
+    "description": "Amazon purchase",
+    "category": "Shopping"
+  },
+  {
+    "description": "Flipkart order",
+    "category": "Shopping"
+  },
+  {
+    "description": "Clothing store",
+    "category": "Shopping"
+  },
+  {
+    "description": "Shoes shopping",
+    "category": "Shopping"
+  },
+  {
+    "description": "Electronics store",
+    "category": "Shopping"
+  },
+  {
+    "description": "Home appliances",
+    "category": "Shopping"
+  },
+  {
+    "description": "Furniture purchase",
+    "category": "Shopping"
+  },
+  {
+    "description": "Decoration items",
+    "category": "Shopping"
+  },
+  {
+    "description": "Kitchen utensils",
+    "category": "Shopping"
+  },
+  {
+    "description": "Bedding and linen",
+    "category": "Shopping"
+  },
+  {
+    "description": "Cleaning supplies",
+    "category": "Shopping"
+  },
+  {
+    "description": "Personal care",
+    "category": "Shopping"
+  },
+  {
+    "description": "Cosmetics shopping",
+    "category": "Shopping"
+  },
+  {
+    "description": "Skincare products",
+    "category": "Shopping"
+  },
+  {
+    "description": "Hair care items",
+    "category": "Shopping"
+  },
+  {
+    "description": "Perfume and cologne",
+    "category": "Shopping"
+  },
+  {
+    "description": "Jewelry purchase",
+    "category": "Shopping"
+  },
+  {
+    "description": "Watch shopping",
+    "category": "Shopping"
+  },
+  {
+    "description": "Bag and luggage",
+    "category": "Shopping"
+  },
+  {
+    "description": "Wallet purchase",
+    "category": "Shopping"
+  },
+  {
+    "description": "Sunglasses shopping",
+    "category": "Shopping"
+  },
+  {
+    "description": "Books and stationery",
+    "category": "Shopping"
+  },
+  {
+    "description": "Art supplies",
+    "category": "Shopping"
+  },
+  {
+    "description": "Craft materials",
+    "category": "Shopping"
+  },
+  {
+    "description": "Sporting goods",
+    "category": "Shopping"
+  },
+  {
+    "description": "Gym equipment",
+    "category": "Shopping"
+  },
+  {
+    "description": "Outdoor gear",
+    "category": "Shopping"
+  },
+  {
+    "description": "Garden supplies",
+    "category": "Shopping"
+  },
+  {
+    "description": "Plant shopping",
+    "category": "Shopping"
+  },
+  {
+    "description": "Seeds and fertilizer",
+    "category": "Shopping"
+  },
+  {
+    "description": "Pet supplies",
+    "category": "Shopping"
+  },
+  {
+    "description": "Pet food",
+    "category": "Shopping"
+  },
+  {
+    "description": "Pet accessories",
+    "category": "Shopping"
+  },
+  {
+    "description": "Baby products",
+    "category": "Shopping"
+  },
+  {
+    "description": "Toys and games",
+    "category": "Shopping"
+  },
+  {
+    "description": "Children's clothing",
+    "category": "Shopping"
+  },
+  {
+    "description": "School supplies",
+    "category": "Shopping"
+  },
+  {
+    "description": "Office supplies",
+    "category": "Shopping"
+  },
+  {
+    "description": "Computer accessories",
+    "category": "Shopping"
+  },
+  {
+    "description": "Mobile accessories",
+    "category": "Shopping"
+  },
+  {
+    "description": "Headphones purchase",
+    "category": "Shopping"
+  },
+  {
+    "description": "Speaker shopping",
+    "category": "Shopping"
+  },
+  {
+    "description": "Camera equipment",
+    "category": "Shopping"
+  },
+  {
+    "description": "Photography gear",
+    "category": "Shopping"
+  },
+  {
+    "description": "Gaming accessories",
+    "category": "Shopping"
+  },
+  {
+    "description": "Software purchase",
+    "category": "Shopping"
+  },
+  {
+    "description": "App subscription",
+    "category": "Shopping"
+  },
+  {
+    "description": "Digital content",
+    "category": "Shopping"
+  },
+  {
+    "description": "Gift shopping",
+    "category": "Shopping"
+  },
+  {
+    "description": "Birthday present",
+    "category": "Shopping"
+  },
+  {
+    "description": "Wedding gift",
+    "category": "Shopping"
+  },
+  {
+    "description": "Holiday shopping",
+    "category": "Shopping"
+  },
+  {
+    "description": "Seasonal items",
+    "category": "Shopping"
+  },
+  {
+    "description": "Festival purchases",
+    "category": "Shopping"
+  },
+  {
+    "description": "Pharmacy items",
+    "category": "Shopping"
+  },
+  {
+    "description": "Vitamins supplements",
+    "category": "Shopping"
+  },
+  {
+    "description": "Medical supplies",
+    "category": "Shopping"
+  },
+  {
+    "description": "Tools and hardware",
+    "category": "Shopping"
+  },
+  {
+    "description": "DIY materials",
+    "category": "Shopping"
+  },
+  {
+    "description": "Construction supplies",
+    "category": "Shopping"
+  },
+  {
+    "description": "Movie ticket",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Cinema booking",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Theatre show",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Concert ticket",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Music festival",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Comedy show",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Sports event",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Stadium ticket",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Game ticket",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Amusement park",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Water park",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Zoo visit",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Museum entry",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Art gallery",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Exhibition ticket",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Netflix subscription",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Spotify premium",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Amazon Prime",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Disney+ subscription",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Gaming subscription",
+    "category": "Entertainment"
+  },
+  {
+    "description": "YouTube premium",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Video game purchase",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Gaming console",
+    "category": "Entertainment"
+  },
+  {
+    "description": "PC games",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Mobile game purchase",
+    "category": "Entertainment"
+  },
+  {
+    "description": "In-app purchases",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Gaming currency",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Books and novels",
+    "category": "Entertainment"
+  },
+  {
+    "description": "E-book purchase",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Audiobook subscription",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Magazine subscription",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Newspaper subscription",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Digital media",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Photography session",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Video production",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Audio recording",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Dance classes",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Music lessons",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Art classes",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Hobby supplies",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Craft workshop",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Cooking class",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Sports club",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Gym membership",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Fitness classes",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Yoga classes",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Swimming pool",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Tennis court",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Golf course",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Adventure sports",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Outdoor activities",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Theme park",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Carnival rides",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Fair tickets",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Party supplies",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Event planning",
+    "category": "Entertainment"
+  },
+  {
+    "description": "Celebration costs",
+    "category": "Entertainment"
+  },
+  {
+    "description": "iPhone purchase",
+    "category": "Technology"
+  },
+  {
+    "description": "Android phone",
+    "category": "Technology"
+  },
+  {
+    "description": "Laptop buying",
+    "category": "Technology"
+  },
+  {
+    "description": "Desktop computer",
+    "category": "Technology"
+  },
+  {
+    "description": "Tablet purchase",
+    "category": "Technology"
+  },
+  {
+    "description": "Smartwatch buying",
+    "category": "Technology"
+  },
+  {
+    "description": "Headphones shopping",
+    "category": "Technology"
+  },
+  {
+    "description": "Bluetooth speaker",
+    "category": "Technology"
+  },
+  {
+    "description": "Gaming headset",
+    "category": "Technology"
+  },
+  {
+    "description": "Camera purchase",
+    "category": "Technology"
+  },
+  {
+    "description": "DSLR camera",
+    "category": "Technology"
+  },
+  {
+    "description": "Action camera",
+    "category": "Technology"
+  },
+  {
+    "description": "Drone purchase",
+    "category": "Technology"
+  },
+  {
+    "description": "Smart TV",
+    "category": "Technology"
+  },
+  {
+    "description": "Streaming device",
+    "category": "Technology"
+  },
+  {
+    "description": "Router purchase",
+    "category": "Technology"
+  },
+  {
+    "description": "WiFi extender",
+    "category": "Technology"
+  },
+  {
+    "description": "Network equipment",
+    "category": "Technology"
+  },
+  {
+    "description": "Computer repair",
+    "category": "Technology"
+  },
+  {
+    "description": "Phone screen fix",
+    "category": "Technology"
+  },
+  {
+    "description": "Laptop service",
+    "category": "Technology"
+  },
+  {
+    "description": "Software license",
+    "category": "Technology"
+  },
+  {
+    "description": "Antivirus subscription",
+    "category": "Technology"
+  },
+  {
+    "description": "Cloud storage",
+    "category": "Technology"
+  },
+  {
+    "description": "App purchase",
+    "category": "Technology"
+  },
+  {
+    "description": "Premium app",
+    "category": "Technology"
+  },
+  {
+    "description": "Software upgrade",
+    "category": "Technology"
+  },
+  {
+    "description": "Tech accessories",
+    "category": "Technology"
+  },
+  {
+    "description": "Phone case",
+    "category": "Technology"
+  },
+  {
+    "description": "Screen protector",
+    "category": "Technology"
+  },
+  {
+    "description": "Charging cable",
+    "category": "Technology"
+  },
+  {
+    "description": "Power bank",
+    "category": "Technology"
+  },
+  {
+    "description": "Wireless charger",
+    "category": "Technology"
+  },
+  {
+    "description": "Computer parts",
+    "category": "Technology"
+  },
+  {
+    "description": "RAM upgrade",
+    "category": "Technology"
+  },
+  {
+    "description": "Hard drive",
+    "category": "Technology"
+  },
+  {
+    "description": "Graphics card",
+    "category": "Technology"
+  },
+  {
+    "description": "Processor upgrade",
+    "category": "Technology"
+  },
+  {
+    "description": "Motherboard",
+    "category": "Technology"
+  },
+  {
+    "description": "Keyboard purchase",
+    "category": "Technology"
+  },
+  {
+    "description": "Mouse buying",
+    "category": "Technology"
+  },
+  {
+    "description": "Monitor purchase",
+    "category": "Technology"
+  },
+  {
+    "description": "Printer purchase",
+    "category": "Technology"
+  },
+  {
+    "description": "Scanner buying",
+    "category": "Technology"
+  },
+  {
+    "description": "Webcam purchase",
+    "category": "Technology"
+  },
+  {
+    "description": "Microphone buying",
+    "category": "Technology"
+  },
+  {
+    "description": "Studio equipment",
+    "category": "Technology"
+  },
+  {
+    "description": "Recording gear",
+    "category": "Technology"
+  },
+  {
+    "description": "Smart home devices",
+    "category": "Technology"
+  },
+  {
+    "description": "Security cameras",
+    "category": "Technology"
+  },
+  {
+    "description": "Home automation",
+    "category": "Technology"
+  },
+  {
+    "description": "Fitness tracker",
+    "category": "Technology"
+  },
+  {
+    "description": "Health monitor",
+    "category": "Technology"
+  },
+  {
+    "description": "Medical device",
+    "category": "Technology"
+  },
+  {
+    "description": "Car tech",
+    "category": "Technology"
+  },
+  {
+    "description": "GPS device",
+    "category": "Technology"
+  },
+  {
+    "description": "Car audio system",
+    "category": "Technology"
+  },
+  {
+    "description": "Electricity bill",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Water bill",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Gas bill",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Internet bill",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Phone bill",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Cable TV",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Rent payment",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Mortgage payment",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Property tax",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Home insurance",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Life insurance",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Health insurance",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Car insurance",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Travel insurance",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Business insurance",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Loan EMI",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Credit card payment",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Bank charges",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Service charges",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Maintenance fee",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Society charges",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Security deposit",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Utility deposit",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Connection charges",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Installation fee",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Service call",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Repair charges",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Subscription renewal",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "License renewal",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Registration fee",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Government fee",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Tax payment",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Fine payment",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Legal charges",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Professional fee",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Consultation charges",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Accounting fee",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Audit charges",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Documentation fee",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Processing fee",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Administrative charges",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Handling charges",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Delivery charges",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Shipping cost",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Packaging fee",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Storage charges",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Warehouse fee",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Logistics cost",
+    "category": "Bills & Utilities"
+  },
+  {
+    "description": "Doctor visit",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Medical consultation",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Hospital bill",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Surgery cost",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Operation charges",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Treatment fee",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Medicine purchase",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Prescription drugs",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Health supplements",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Vitamins buying",
+    "category": "Healthcare"
+  },
+  {
+    "description": "First aid supplies",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Medical equipment",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Health checkup",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Blood test",
+    "category": "Healthcare"
+  },
+  {
+    "description": "X-ray scan",
+    "category": "Healthcare"
+  },
+  {
+    "description": "MRI scan",
+    "category": "Healthcare"
+  },
+  {
+    "description": "CT scan",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Ultrasound",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Dental checkup",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Dental treatment",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Tooth filling",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Eye checkup",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Eye glasses",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Contact lenses",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Physiotherapy",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Massage therapy",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Rehabilitation",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Mental health",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Counseling session",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Therapy session",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Wellness program",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Health screening",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Vaccination",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Emergency treatment",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Ambulance service",
+    "category": "Healthcare"
+  },
+  {
+    "description": "ICU charges",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Pharmacy purchase",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Medical supplies",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Health insurance premium",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Lab tests",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Diagnostic tests",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Medical imaging",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Specialist consultation",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Follow-up visit",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Health monitoring",
+    "category": "Healthcare"
+  },
+  {
+    "description": "Flight booking",
+    "category": "Travel"
+  },
+  {
+    "description": "Hotel reservation",
+    "category": "Travel"
+  },
+  {
+    "description": "Travel package",
+    "category": "Travel"
+  },
+  {
+    "description": "Vacation trip",
+    "category": "Travel"
+  },
+  {
+    "description": "Business travel",
+    "category": "Travel"
+  },
+  {
+    "description": "Weekend getaway",
+    "category": "Travel"
+  },
+  {
+    "description": "Holiday booking",
+    "category": "Travel"
+  },
+  {
+    "description": "Resort stay",
+    "category": "Travel"
+  },
+  {
+    "description": "Cruise booking",
+    "category": "Travel"
+  },
+  {
+    "description": "Tour package",
+    "category": "Travel"
+  },
+  {
+    "description": "Travel insurance",
+    "category": "Travel"
+  },
+  {
+    "description": "Visa application",
+    "category": "Travel"
+  },
+  {
+    "description": "Passport renewal",
+    "category": "Travel"
+  },
+  {
+    "description": "Travel documents",
+    "category": "Travel"
+  },
+  {
+    "description": "Foreign exchange",
+    "category": "Travel"
+  },
+  {
+    "description": "Airport parking",
+    "category": "Travel"
+  },
+  {
+    "description": "Airport lounge",
+    "category": "Travel"
+  },
+  {
+    "description": "Excess baggage",
+    "category": "Travel"
+  },
+  {
+    "description": "Car rental abroad",
+    "category": "Travel"
+  },
+  {
+    "description": "Local transport",
+    "category": "Travel"
+  },
+  {
+    "description": "City tours",
+    "category": "Travel"
+  },
+  {
+    "description": "Sightseeing",
+    "category": "Travel"
+  },
+  {
+    "description": "Adventure activities",
+    "category": "Travel"
+  },
+  {
+    "description": "Cultural tours",
+    "category": "Travel"
+  },
+  {
+    "description": "Food tours",
+    "category": "Travel"
+  },
+  {
+    "description": "Shopping tours",
+    "category": "Travel"
+  },
+  {
+    "description": "Nature trips",
+    "category": "Travel"
+  },
+  {
+    "description": "Beach vacation",
+    "category": "Travel"
+  },
+  {
+    "description": "Mountain trip",
+    "category": "Travel"
+  },
+  {
+    "description": "Desert safari",
+    "category": "Travel"
+  },
+  {
+    "description": "Wildlife sanctuary",
+    "category": "Travel"
+  },
+  {
+    "description": "National park",
+    "category": "Travel"
+  },
+  {
+    "description": "Heritage sites",
+    "category": "Travel"
+  },
+  {
+    "description": "Pilgrimage trip",
+    "category": "Travel"
+  },
+  {
+    "description": "Religious tour",
+    "category": "Travel"
+  },
+  {
+    "description": "Spiritual journey",
+    "category": "Travel"
+  },
+  {
+    "description": "Conference travel",
+    "category": "Travel"
+  },
+  {
+    "description": "Seminar attendance",
+    "category": "Travel"
+  },
+  {
+    "description": "Training program",
+    "category": "Travel"
+  },
+  {
+    "description": "Study abroad",
+    "category": "Travel"
+  },
+  {
+    "description": "Exchange program",
+    "category": "Travel"
+  },
+  {
+    "description": "International course",
+    "category": "Travel"
+  },
+  {
+    "description": "Family vacation",
+    "category": "Travel"
+  },
+  {
+    "description": "Honeymoon trip",
+    "category": "Travel"
+  },
+  {
+    "description": "Anniversary celebration",
+    "category": "Travel"
+  },
+  {
+    "description": "Travel gear",
+    "category": "Travel"
+  },
+  {
+    "description": "Luggage purchase",
+    "category": "Travel"
+  },
+  {
+    "description": "Travel accessories",
+    "category": "Travel"
+  },
+  {
+    "description": "School fees",
+    "category": "Education"
+  },
+  {
+    "description": "College tuition",
+    "category": "Education"
+  },
+  {
+    "description": "University fees",
+    "category": "Education"
+  },
+  {
+    "description": "Course enrollment",
+    "category": "Education"
+  },
+  {
+    "description": "Online course",
+    "category": "Education"
+  },
+  {
+    "description": "Certification program",
+    "category": "Education"
+  },
+  {
+    "description": "Training workshop",
+    "category": "Education"
+  },
+  {
+    "description": "Skill development",
+    "category": "Education"
+  },
+  {
+    "description": "Professional course",
+    "category": "Education"
+  },
+  {
+    "description": "Language classes",
+    "category": "Education"
+  },
+  {
+    "description": "Computer course",
+    "category": "Education"
+  },
+  {
+    "description": "Technical training",
+    "category": "Education"
+  },
+  {
+    "description": "Books purchase",
+    "category": "Education"
+  },
+  {
+    "description": "Study materials",
+    "category": "Education"
+  },
+  {
+    "description": "Educational supplies",
+    "category": "Education"
+  },
+  {
+    "description": "Stationery items",
+    "category": "Education"
+  },
+  {
+    "description": "School uniform",
+    "category": "Education"
+  },
+  {
+    "description": "College supplies",
+    "category": "Education"
+  },
+  {
+    "description": "Laboratory fee",
+    "category": "Education"
+  },
+  {
+    "description": "Library fee",
+    "category": "Education"
+  },
+  {
+    "description": "Examination fee",
+    "category": "Education"
+  },
+  {
+    "description": "Admission fee",
+    "category": "Education"
+  },
+  {
+    "description": "Registration charges",
+    "category": "Education"
+  },
+  {
+    "description": "Application fee",
+    "category": "Education"
+  },
+  {
+    "description": "Scholarship application",
+    "category": "Education"
+  },
+  {
+    "description": "Educational loan",
+    "category": "Education"
+  },
+  {
+    "description": "Study loan",
+    "category": "Education"
+  },
+  {
+    "description": "Research materials",
+    "category": "Education"
+  },
+  {
+    "description": "Project supplies",
+    "category": "Education"
+  },
+  {
+    "description": "Thesis printing",
+    "category": "Education"
+  },
+  {
+    "description": "Educational software",
+    "category": "Education"
+  },
+  {
+    "description": "Learning apps",
+    "category": "Education"
+  },
+  {
+    "description": "Online subscription",
+    "category": "Education"
+  },
+  {
+    "description": "Tutoring classes",
+    "category": "Education"
+  },
+  {
+    "description": "Private lessons",
+    "category": "Education"
+  },
+  {
+    "description": "Coaching classes",
+    "category": "Education"
+  },
+  {
+    "description": "Entrance exam fee",
+    "category": "Education"
+  },
+  {
+    "description": "Competitive exam",
+    "category": "Education"
+  },
+  {
+    "description": "Test preparation",
+    "category": "Education"
+  },
+  {
+    "description": "Educational tours",
+    "category": "Education"
+  },
+  {
+    "description": "Study trips",
+    "category": "Education"
+  },
+  {
+    "description": "Field visits",
+    "category": "Education"
+  },
+  {
+    "description": "Conference attendance",
+    "category": "Education"
+  },
+  {
+    "description": "Seminar registration",
+    "category": "Education"
+  },
+  {
+    "description": "Workshop fee",
+    "category": "Education"
+  },
+  {
+    "description": "Office supplies",
+    "category": "Business"
+  },
+  {
+    "description": "Business equipment",
+    "category": "Business"
+  },
+  {
+    "description": "Office furniture",
+    "category": "Business"
+  },
+  {
+    "description": "Computer purchase",
+    "category": "Business"
+  },
+  {
+    "description": "Software license",
+    "category": "Business"
+  },
+  {
+    "description": "Business software",
+    "category": "Business"
+  },
+  {
+    "description": "Marketing expenses",
+    "category": "Business"
+  },
+  {
+    "description": "Advertising cost",
+    "category": "Business"
+  },
+  {
+    "description": "Promotional items",
+    "category": "Business"
+  },
+  {
+    "description": "Business cards",
+    "category": "Business"
+  },
+  {
+    "description": "Brochure printing",
+    "category": "Business"
+  },
+  {
+    "description": "Website development",
+    "category": "Business"
+  },
+  {
+    "description": "Professional services",
+    "category": "Business"
+  },
+  {
+    "description": "Legal consultation",
+    "category": "Business"
+  },
+  {
+    "description": "Accounting services",
+    "category": "Business"
+  },
+  {
+    "description": "Business registration",
+    "category": "Business"
+  },
+  {
+    "description": "License fee",
+    "category": "Business"
+  },
+  {
+    "description": "Permit charges",
+    "category": "Business"
+  },
+  {
+    "description": "Office rent",
+    "category": "Business"
+  },
+  {
+    "description": "Commercial space",
+    "category": "Business"
+  },
+  {
+    "description": "Co-working space",
+    "category": "Business"
+  },
+  {
+    "description": "Business insurance",
+    "category": "Business"
+  },
+  {
+    "description": "Professional insurance",
+    "category": "Business"
+  },
+  {
+    "description": "Liability insurance",
+    "category": "Business"
+  },
+  {
+    "description": "Employee expenses",
+    "category": "Business"
+  },
+  {
+    "description": "Staff training",
+    "category": "Business"
+  },
+  {
+    "description": "Team building",
+    "category": "Business"
+  },
+  {
+    "description": "Client meeting",
+    "category": "Business"
+  },
+  {
+    "description": "Business lunch",
+    "category": "Business"
+  },
+  {
+    "description": "Conference expenses",
+    "category": "Business"
+  },
+  {
+    "description": "Travel expenses",
+    "category": "Business"
+  },
+  {
+    "description": "Business travel",
+    "category": "Business"
+  },
+  {
+    "description": "Client visit",
+    "category": "Business"
+  },
+  {
+    "description": "Equipment maintenance",
+    "category": "Business"
+  },
+  {
+    "description": "Office repairs",
+    "category": "Business"
+  },
+  {
+    "description": "System upgrade",
+    "category": "Business"
+  },
+  {
+    "description": "Networking events",
+    "category": "Business"
+  },
+  {
+    "description": "Trade shows",
+    "category": "Business"
+  },
+  {
+    "description": "Business conferences",
+    "category": "Business"
+  },
+  {
+    "description": "Subscription services",
+    "category": "Business"
+  },
+  {
+    "description": "Business tools",
+    "category": "Business"
+  },
+  {
+    "description": "Professional membership",
+    "category": "Business"
+  },
+  {
+    "description": "Miscellaneous expense",
+    "category": "Other"
+  },
+  {
+    "description": "Random purchase",
+    "category": "Other"
+  },
+  {
+    "description": "Unategorized",
+    "category": "Other"
+  },
+  {
+    "description": "Cash withdrawal",
+    "category": "Other"
+  },
+  {
+    "description": "ATM charges",
+    "category": "Other"
+  },
+  {
+    "description": "Bank transfer",
+    "category": "Other"
+  },
+  {
+    "description": "Investment purchase",
+    "category": "Other"
+  },
+  {
+    "description": "Stock trading",
+    "category": "Other"
+  },
+  {
+    "description": "Mutual funds",
+    "category": "Other"
+  },
+  {
+    "description": "Gold purchase",
+    "category": "Other"
+  },
+  {
+    "description": "Jewelry buying",
+    "category": "Other"
+  },
+  {
+    "description": "Precious metals",
+    "category": "Other"
+  },
+  {
+    "description": "Charity donation",
+    "category": "Other"
+  },
+  {
+    "description": "Religious offering",
+    "category": "Other"
+  },
+  {
+    "description": "Social cause",
+    "category": "Other"
+  },
+  {
+    "description": "Gift giving",
+    "category": "Other"
+  },
+  {
+    "description": "Celebration expense",
+    "category": "Other"
+  },
+  {
+    "description": "Party cost",
+    "category": "Other"
+  },
+  {
+    "description": "Emergency expense",
+    "category": "Other"
+  },
+  {
+    "description": "Unexpected cost",
+    "category": "Other"
+  },
+  {
+    "description": "Urgent payment",
+    "category": "Other"
+  },
+  {
+    "description": "Temporary expense",
+    "category": "Other"
+  },
+  {
+    "description": "One-time purchase",
+    "category": "Other"
+  },
+  {
+    "description": "Special occasion",
+    "category": "Other"
+  },
+  {
+    "description": "Personal care",
+    "category": "Other"
+  },
+  {
+    "description": "Grooming services",
+    "category": "Other"
+  },
+  {
+    "description": "Beauty treatment",
+    "category": "Other"
+  },
+  {
+    "description": "Hobby expense",
+    "category": "Other"
+  },
+  {
+    "description": "Collection items",
+    "category": "Other"
+  },
+  {
+    "description": "Special interest",
+    "category": "Other"
+  },
+  {
+    "description": "Community fee",
+    "category": "Other"
+  },
+  {
+    "description": "Social charges",
+    "category": "Other"
+  },
+  {
+    "description": "Club membership",
+    "category": "Other"
+  },
+  {
+    "description": "Subscription box",
+    "category": "Other"
+  },
+  {
+    "description": "Monthly box",
+    "category": "Other"
+  },
+  {
+    "description": "Surprise purchase",
+    "category": "Other"
+  },
+  {
+    "description": "Impulse buying",
+    "category": "Other"
+  },
+  {
+    "description": "Spontaneous expense",
+    "category": "Other"
+  },
+  {
+    "description": "Unplanned cost",
+    "category": "Other"
+  }
+]

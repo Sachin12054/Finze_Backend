@@ -1,0 +1,565 @@
+description,category
+Bought groceries at Walmart,Food & Dining
+Coffee at Starbucks,Food & Dining
+Lunch at McDonald's,Food & Dining
+Dinner at Pizza Hut,Food & Dining
+Breakfast sandwich,Food & Dining
+Grocery shopping Target,Food & Dining
+Food delivery UberEats,Food & Dining
+Restaurant bill,Food & Dining
+Cafe latte,Food & Dining
+Snacks 7-Eleven,Food & Dining
+Domino's pizza order,Food & Dining
+KFC chicken bucket,Food & Dining
+Subway sandwich,Food & Dining
+Ice cream parlor,Food & Dining
+Bakery fresh bread,Food & Dining
+Chinese takeout,Food & Dining
+Indian restaurant,Food & Dining
+Thai food delivery,Food & Dining
+Mexican grill,Food & Dining
+Fast food burger,Food & Dining
+Sushi restaurant,Food & Dining
+Seafood dinner,Food & Dining
+Vegetarian meal,Food & Dining
+Organic fruits,Food & Dining
+Meat from butcher,Food & Dining
+Dairy products,Food & Dining
+Frozen foods,Food & Dining
+Beverages and drinks,Food & Dining
+Wine and spirits,Food & Dining
+Beer purchase,Food & Dining
+Energy drinks,Food & Dining
+Protein bars,Food & Dining
+Healthy snacks,Food & Dining
+Candy and sweets,Food & Dining
+Cake for birthday,Food & Dining
+Wedding catering,Food & Dining
+Office lunch,Food & Dining
+School cafeteria,Food & Dining
+Airport food,Food & Dining
+Hotel restaurant,Food & Dining
+Room service,Food & Dining
+Picnic supplies,Food & Dining
+BBQ ingredients,Food & Dining
+Cooking ingredients,Food & Dining
+Spices and herbs,Food & Dining
+Cooking oil,Food & Dining
+Rice and grains,Food & Dining
+Pasta and noodles,Food & Dining
+Bread and cereals,Food & Dining
+Milk and yogurt,Food & Dining
+Cheese varieties,Food & Dining
+Fresh vegetables,Food & Dining
+Seasonal fruits,Food & Dining
+Meat and poultry,Food & Dining
+Fish and seafood,Food & Dining
+Tiffin service,Food & Dining
+Mess charges,Food & Dining
+Canteen food,Food & Dining
+Street food,Food & Dining
+Local restaurant,Food & Dining
+Fine dining,Food & Dining
+Food court meal,Food & Dining
+Home delivery,Food & Dining
+Packed lunch,Food & Dining
+Tea and coffee,Food & Dining
+Juice bar,Food & Dining
+Smoothie shop,Food & Dining
+Dessert shop,Food & Dining
+Food truck,Food & Dining
+Catering service,Food & Dining
+Uber ride,Transportation
+Taxi fare,Transportation
+Bus ticket,Transportation
+Train journey,Transportation
+Metro card recharge,Transportation
+Auto rickshaw,Transportation
+Flight booking,Transportation
+Car rental,Transportation
+Bike rental,Transportation
+Petrol pump,Transportation
+Diesel fuel,Transportation
+Car maintenance,Transportation
+Oil change,Transportation
+Tire replacement,Transportation
+Car insurance,Transportation
+Vehicle registration,Transportation
+Parking fee,Transportation
+Toll charges,Transportation
+Traffic fine,Transportation
+Car wash,Transportation
+Public transport,Transportation
+Monthly bus pass,Transportation
+Train season ticket,Transportation
+Airport shuttle,Transportation
+Hotel transfer,Transportation
+Cab booking,Transportation
+Ride sharing,Transportation
+Car service,Transportation
+Vehicle repair,Transportation
+Brake service,Transportation
+Engine check,Transportation
+Battery replacement,Transportation
+Car accessories,Transportation
+GPS device,Transportation
+Dashcam purchase,Transportation
+Fuel card,Transportation
+Highway toll,Transportation
+Bridge toll,Transportation
+Valet parking,Transportation
+Long term parking,Transportation
+Street parking,Transportation
+Bike maintenance,Transportation
+Bicycle repair,Transportation
+Scooter service,Transportation
+Motorcycle fuel,Transportation
+Helmet purchase,Transportation
+Safety gear,Transportation
+Driver license,Transportation
+Vehicle permit,Transportation
+Road tax,Transportation
+Emission test,Transportation
+Safety inspection,Transportation
+Registration renewal,Transportation
+Amazon purchase,Shopping
+Flipkart order,Shopping
+Clothing store,Shopping
+Shoes shopping,Shopping
+Electronics store,Shopping
+Home appliances,Shopping
+Furniture purchase,Shopping
+Decoration items,Shopping
+Kitchen utensils,Shopping
+Bedding and linen,Shopping
+Cleaning supplies,Shopping
+Personal care,Shopping
+Cosmetics shopping,Shopping
+Skincare products,Shopping
+Hair care items,Shopping
+Perfume and cologne,Shopping
+Jewelry purchase,Shopping
+Watch shopping,Shopping
+Bag and luggage,Shopping
+Wallet purchase,Shopping
+Sunglasses shopping,Shopping
+Books and stationery,Shopping
+Art supplies,Shopping
+Craft materials,Shopping
+Sporting goods,Shopping
+Gym equipment,Shopping
+Outdoor gear,Shopping
+Garden supplies,Shopping
+Plant shopping,Shopping
+Seeds and fertilizer,Shopping
+Pet supplies,Shopping
+Pet food,Shopping
+Pet accessories,Shopping
+Baby products,Shopping
+Toys and games,Shopping
+Children's clothing,Shopping
+School supplies,Shopping
+Office supplies,Shopping
+Computer accessories,Shopping
+Mobile accessories,Shopping
+Headphones purchase,Shopping
+Speaker shopping,Shopping
+Camera equipment,Shopping
+Photography gear,Shopping
+Gaming accessories,Shopping
+Software purchase,Shopping
+App subscription,Shopping
+Digital content,Shopping
+Gift shopping,Shopping
+Birthday present,Shopping
+Wedding gift,Shopping
+Holiday shopping,Shopping
+Seasonal items,Shopping
+Festival purchases,Shopping
+Pharmacy items,Shopping
+Vitamins supplements,Shopping
+Medical supplies,Shopping
+Tools and hardware,Shopping
+DIY materials,Shopping
+Construction supplies,Shopping
+Movie ticket,Entertainment
+Cinema booking,Entertainment
+Theatre show,Entertainment
+Concert ticket,Entertainment
+Music festival,Entertainment
+Comedy show,Entertainment
+Sports event,Entertainment
+Stadium ticket,Entertainment
+Game ticket,Entertainment
+Amusement park,Entertainment
+Water park,Entertainment
+Zoo visit,Entertainment
+Museum entry,Entertainment
+Art gallery,Entertainment
+Exhibition ticket,Entertainment
+Netflix subscription,Entertainment
+Spotify premium,Entertainment
+Amazon Prime,Entertainment
+Disney+ subscription,Entertainment
+Gaming subscription,Entertainment
+YouTube premium,Entertainment
+Video game purchase,Entertainment
+Gaming console,Entertainment
+PC games,Entertainment
+Mobile game purchase,Entertainment
+In-app purchases,Entertainment
+Gaming currency,Entertainment
+Books and novels,Entertainment
+E-book purchase,Entertainment
+Audiobook subscription,Entertainment
+Magazine subscription,Entertainment
+Newspaper subscription,Entertainment
+Digital media,Entertainment
+Photography session,Entertainment
+Video production,Entertainment
+Audio recording,Entertainment
+Dance classes,Entertainment
+Music lessons,Entertainment
+Art classes,Entertainment
+Hobby supplies,Entertainment
+Craft workshop,Entertainment
+Cooking class,Entertainment
+Sports club,Entertainment
+Gym membership,Entertainment
+Fitness classes,Entertainment
+Yoga classes,Entertainment
+Swimming pool,Entertainment
+Tennis court,Entertainment
+Golf course,Entertainment
+Adventure sports,Entertainment
+Outdoor activities,Entertainment
+Theme park,Entertainment
+Carnival rides,Entertainment
+Fair tickets,Entertainment
+Party supplies,Entertainment
+Event planning,Entertainment
+Celebration costs,Entertainment
+iPhone purchase,Technology
+Android phone,Technology
+Laptop buying,Technology
+Desktop computer,Technology
+Tablet purchase,Technology
+Smartwatch buying,Technology
+Headphones shopping,Technology
+Bluetooth speaker,Technology
+Gaming headset,Technology
+Camera purchase,Technology
+DSLR camera,Technology
+Action camera,Technology
+Drone purchase,Technology
+Smart TV,Technology
+Streaming device,Technology
+Router purchase,Technology
+WiFi extender,Technology
+Network equipment,Technology
+Computer repair,Technology
+Phone screen fix,Technology
+Laptop service,Technology
+Software license,Technology
+Antivirus subscription,Technology
+Cloud storage,Technology
+App purchase,Technology
+Premium app,Technology
+Software upgrade,Technology
+Tech accessories,Technology
+Phone case,Technology
+Screen protector,Technology
+Charging cable,Technology
+Power bank,Technology
+Wireless charger,Technology
+Computer parts,Technology
+RAM upgrade,Technology
+Hard drive,Technology
+Graphics card,Technology
+Processor upgrade,Technology
+Motherboard,Technology
+Keyboard purchase,Technology
+Mouse buying,Technology
+Monitor purchase,Technology
+Printer purchase,Technology
+Scanner buying,Technology
+Webcam purchase,Technology
+Microphone buying,Technology
+Studio equipment,Technology
+Recording gear,Technology
+Smart home devices,Technology
+Security cameras,Technology
+Home automation,Technology
+Fitness tracker,Technology
+Health monitor,Technology
+Medical device,Technology
+Car tech,Technology
+GPS device,Technology
+Car audio system,Technology
+Electricity bill,Bills & Utilities
+Water bill,Bills & Utilities
+Gas bill,Bills & Utilities
+Internet bill,Bills & Utilities
+Phone bill,Bills & Utilities
+Cable TV,Bills & Utilities
+Rent payment,Bills & Utilities
+Mortgage payment,Bills & Utilities
+Property tax,Bills & Utilities
+Home insurance,Bills & Utilities
+Life insurance,Bills & Utilities
+Health insurance,Bills & Utilities
+Car insurance,Bills & Utilities
+Travel insurance,Bills & Utilities
+Business insurance,Bills & Utilities
+Loan EMI,Bills & Utilities
+Credit card payment,Bills & Utilities
+Bank charges,Bills & Utilities
+Service charges,Bills & Utilities
+Maintenance fee,Bills & Utilities
+Society charges,Bills & Utilities
+Security deposit,Bills & Utilities
+Utility deposit,Bills & Utilities
+Connection charges,Bills & Utilities
+Installation fee,Bills & Utilities
+Service call,Bills & Utilities
+Repair charges,Bills & Utilities
+Subscription renewal,Bills & Utilities
+License renewal,Bills & Utilities
+Registration fee,Bills & Utilities
+Government fee,Bills & Utilities
+Tax payment,Bills & Utilities
+Fine payment,Bills & Utilities
+Legal charges,Bills & Utilities
+Professional fee,Bills & Utilities
+Consultation charges,Bills & Utilities
+Accounting fee,Bills & Utilities
+Audit charges,Bills & Utilities
+Documentation fee,Bills & Utilities
+Processing fee,Bills & Utilities
+Administrative charges,Bills & Utilities
+Handling charges,Bills & Utilities
+Delivery charges,Bills & Utilities
+Shipping cost,Bills & Utilities
+Packaging fee,Bills & Utilities
+Storage charges,Bills & Utilities
+Warehouse fee,Bills & Utilities
+Logistics cost,Bills & Utilities
+Doctor visit,Healthcare
+Medical consultation,Healthcare
+Hospital bill,Healthcare
+Surgery cost,Healthcare
+Operation charges,Healthcare
+Treatment fee,Healthcare
+Medicine purchase,Healthcare
+Prescription drugs,Healthcare
+Health supplements,Healthcare
+Vitamins buying,Healthcare
+First aid supplies,Healthcare
+Medical equipment,Healthcare
+Health checkup,Healthcare
+Blood test,Healthcare
+X-ray scan,Healthcare
+MRI scan,Healthcare
+CT scan,Healthcare
+Ultrasound,Healthcare
+Dental checkup,Healthcare
+Dental treatment,Healthcare
+Tooth filling,Healthcare
+Eye checkup,Healthcare
+Eye glasses,Healthcare
+Contact lenses,Healthcare
+Physiotherapy,Healthcare
+Massage therapy,Healthcare
+Rehabilitation,Healthcare
+Mental health,Healthcare
+Counseling session,Healthcare
+Therapy session,Healthcare
+Wellness program,Healthcare
+Health screening,Healthcare
+Vaccination,Healthcare
+Emergency treatment,Healthcare
+Ambulance service,Healthcare
+ICU charges,Healthcare
+Pharmacy purchase,Healthcare
+Medical supplies,Healthcare
+Health insurance premium,Healthcare
+Lab tests,Healthcare
+Diagnostic tests,Healthcare
+Medical imaging,Healthcare
+Specialist consultation,Healthcare
+Follow-up visit,Healthcare
+Health monitoring,Healthcare
+Flight booking,Travel
+Hotel reservation,Travel
+Travel package,Travel
+Vacation trip,Travel
+Business travel,Travel
+Weekend getaway,Travel
+Holiday booking,Travel
+Resort stay,Travel
+Cruise booking,Travel
+Tour package,Travel
+Travel insurance,Travel
+Visa application,Travel
+Passport renewal,Travel
+Travel documents,Travel
+Foreign exchange,Travel
+Airport parking,Travel
+Airport lounge,Travel
+Excess baggage,Travel
+Car rental abroad,Travel
+Local transport,Travel
+City tours,Travel
+Sightseeing,Travel
+Adventure activities,Travel
+Cultural tours,Travel
+Food tours,Travel
+Shopping tours,Travel
+Nature trips,Travel
+Beach vacation,Travel
+Mountain trip,Travel
+Desert safari,Travel
+Wildlife sanctuary,Travel
+National park,Travel
+Heritage sites,Travel
+Pilgrimage trip,Travel
+Religious tour,Travel
+Spiritual journey,Travel
+Conference travel,Travel
+Seminar attendance,Travel
+Training program,Travel
+Study abroad,Travel
+Exchange program,Travel
+International course,Travel
+Family vacation,Travel
+Honeymoon trip,Travel
+Anniversary celebration,Travel
+Travel gear,Travel
+Luggage purchase,Travel
+Travel accessories,Travel
+School fees,Education
+College tuition,Education
+University fees,Education
+Course enrollment,Education
+Online course,Education
+Certification program,Education
+Training workshop,Education
+Skill development,Education
+Professional course,Education
+Language classes,Education
+Computer course,Education
+Technical training,Education
+Books purchase,Education
+Study materials,Education
+Educational supplies,Education
+Stationery items,Education
+School uniform,Education
+College supplies,Education
+Laboratory fee,Education
+Library fee,Education
+Examination fee,Education
+Admission fee,Education
+Registration charges,Education
+Application fee,Education
+Scholarship application,Education
+Educational loan,Education
+Study loan,Education
+Research materials,Education
+Project supplies,Education
+Thesis printing,Education
+Educational software,Education
+Learning apps,Education
+Online subscription,Education
+Tutoring classes,Education
+Private lessons,Education
+Coaching classes,Education
+Entrance exam fee,Education
+Competitive exam,Education
+Test preparation,Education
+Educational tours,Education
+Study trips,Education
+Field visits,Education
+Conference attendance,Education
+Seminar registration,Education
+Workshop fee,Education
+Office supplies,Business
+Business equipment,Business
+Office furniture,Business
+Computer purchase,Business
+Software license,Business
+Business software,Business
+Marketing expenses,Business
+Advertising cost,Business
+Promotional items,Business
+Business cards,Business
+Brochure printing,Business
+Website development,Business
+Professional services,Business
+Legal consultation,Business
+Accounting services,Business
+Business registration,Business
+License fee,Business
+Permit charges,Business
+Office rent,Business
+Commercial space,Business
+Co-working space,Business
+Business insurance,Business
+Professional insurance,Business
+Liability insurance,Business
+Employee expenses,Business
+Staff training,Business
+Team building,Business
+Client meeting,Business
+Business lunch,Business
+Conference expenses,Business
+Travel expenses,Business
+Business travel,Business
+Client visit,Business
+Equipment maintenance,Business
+Office repairs,Business
+System upgrade,Business
+Networking events,Business
+Trade shows,Business
+Business conferences,Business
+Subscription services,Business
+Business tools,Business
+Professional membership,Business
+Miscellaneous expense,Other
+Random purchase,Other
+Unategorized,Other
+Cash withdrawal,Other
+ATM charges,Other
+Bank transfer,Other
+Investment purchase,Other
+Stock trading,Other
+Mutual funds,Other
+Gold purchase,Other
+Jewelry buying,Other
+Precious metals,Other
+Charity donation,Other
+Religious offering,Other
+Social cause,Other
+Gift giving,Other
+Celebration expense,Other
+Party cost,Other
+Emergency expense,Other
+Unexpected cost,Other
+Urgent payment,Other
+Temporary expense,Other
+One-time purchase,Other
+Special occasion,Other
+Personal care,Other
+Grooming services,Other
+Beauty treatment,Other
+Hobby expense,Other
+Collection items,Other
+Special interest,Other
+Community fee,Other
+Social charges,Other
+Club membership,Other
+Subscription box,Other
+Monthly box,Other
+Surprise purchase,Other
+Impulse buying,Other
+Spontaneous expense,Other
+Unplanned cost,Other
