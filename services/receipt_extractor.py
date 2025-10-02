@@ -43,11 +43,12 @@ class GeminiReceiptExtractor:
         
         # Try different models in order of preference
         self.models = [
-            "gemini-1.5-flash",  # Faster, uses fewer tokens
-            "gemini-1.5-pro",   # More accurate but uses more quota
+            "gemini-1.5-flash-latest",  # Faster, uses fewer tokens
+            "gemini-1.5-pro-latest",   # More accurate but uses more quota
+            "gemini-pro-vision",        # Fallback for older API keys
         ]
         self.current_model = self.models[0]  # Start with flash model
-        self.base_url = "https://generativelanguage.googleapis.com/v1beta/models"
+        self.base_url = "https://generativelanguage.googleapis.com/v1/models"
         self.supported_formats = ['jpg', 'jpeg', 'png', 'webp', 'heic', 'heif']
         
         # Retry configuration
@@ -267,9 +268,12 @@ Analyze the image thoroughly and provide accurate, structured data.
             
         try:
             # Switch to flash model after first quota error for better quota management
-            if retry_count > 0 and self.current_model == "gemini-1.5-pro":
-                self.current_model = "gemini-1.5-flash"
+            if retry_count > 0 and self.current_model == "gemini-1.5-pro-latest":
+                self.current_model = "gemini-1.5-flash-latest"
                 logger.info(f"Switched to {self.current_model} model due to quota issues")
+            elif retry_count > 1 and self.current_model == "gemini-1.5-flash-latest":
+                self.current_model = "gemini-pro-vision"
+                logger.info(f"Switched to fallback model {self.current_model}")
             
             headers = {'Content-Type': 'application/json'}
             url = f"{self.base_url}/{self.current_model}:generateContent?key={self.api_key}"
