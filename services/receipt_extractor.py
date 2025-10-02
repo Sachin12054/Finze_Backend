@@ -42,14 +42,14 @@ class GeminiReceiptExtractor:
             raise ValueError("Gemini API key is required. Set GEMINI_API_KEY environment variable or pass api_key parameter.")
         
         # Try different models in order of preference
-        # For v1 API, use model names without -latest suffix
+        # Using v1beta API for better compatibility
         self.models = [
             "gemini-1.5-flash",  # Faster, uses fewer tokens
             "gemini-1.5-pro",   # More accurate but uses more quota
             "gemini-pro",        # Fallback for older API keys
         ]
         self.current_model = self.models[0]  # Start with flash model
-        self.base_url = "https://generativelanguage.googleapis.com/v1/models"
+        self.base_url = "https://generativelanguage.googleapis.com/v1beta/models"
         self.supported_formats = ['jpg', 'jpeg', 'png', 'webp', 'heic', 'heif']
         
         # Retry configuration
